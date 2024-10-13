@@ -1,0 +1,10 @@
+/home/huiitaiyang/rust-rustlings-2024-autumn-huitaiyan/target/release/deps/liblog-b5f1d2e67ce9d09d.rmeta: /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/lib.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/macros.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/serde.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/__private_api.rs
+
+/home/huiitaiyang/rust-rustlings-2024-autumn-huitaiyan/target/release/deps/liblog-b5f1d2e67ce9d09d.rlib: /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/lib.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/macros.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/serde.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/__private_api.rs
+
+/home/huiitaiyang/rust-rustlings-2024-autumn-huitaiyan/target/release/deps/log-b5f1d2e67ce9d09d.d: /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/lib.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/macros.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/serde.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/__private_api.rs
+
+/home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/lib.rs:
+/home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/macros.rs:
+/home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/serde.rs:
+/home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/log-0.4.22/src/__private_api.rs:

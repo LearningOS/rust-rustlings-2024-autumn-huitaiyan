@@ -1,0 +1,10 @@
+/home/huiitaiyang/rust-rustlings-2024-autumn-huitaiyan/target/release/deps/libautocfg-b912d23f600ed841.rmeta: /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/autocfg-1.4.0/src/lib.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/autocfg-1.4.0/src/error.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/autocfg-1.4.0/src/rustc.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/autocfg-1.4.0/src/version.rs
+
+/home/huiitaiyang/rust-rustlings-2024-autumn-huitaiyan/target/release/deps/libautocfg-b912d23f600ed841.rlib: /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/autocfg-1.4.0/src/lib.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/autocfg-1.4.0/src/error.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/autocfg-1.4.0/src/rustc.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/autocfg-1.4.0/src/version.rs
+
+/home/huiitaiyang/rust-rustlings-2024-autumn-huitaiyan/target/release/deps/autocfg-b912d23f600ed841.d: /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/autocfg-1.4.0/src/lib.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/autocfg-1.4.0/src/error.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/autocfg-1.4.0/src/rustc.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/autocfg-1.4.0/src/version.rs
+
+/home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/autocfg-1.4.0/src/lib.rs:
+/home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/autocfg-1.4.0/src/error.rs:
+/home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/autocfg-1.4.0/src/rustc.rs:
+/home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/autocfg-1.4.0/src/version.rs:

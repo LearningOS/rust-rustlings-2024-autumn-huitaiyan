@@ -1,0 +1,10 @@
+/home/huiitaiyang/rust-rustlings-2024-autumn-huitaiyan/target/debug/deps/libiovec-fb6a58d5fe74f14a.rmeta: /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/iovec-0.1.4/src/lib.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/iovec-0.1.4/src/sys/mod.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/iovec-0.1.4/src/sys/unix.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/iovec-0.1.4/src/unix.rs
+
+/home/huiitaiyang/rust-rustlings-2024-autumn-huitaiyan/target/debug/deps/libiovec-fb6a58d5fe74f14a.rlib: /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/iovec-0.1.4/src/lib.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/iovec-0.1.4/src/sys/mod.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/iovec-0.1.4/src/sys/unix.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/iovec-0.1.4/src/unix.rs
+
+/home/huiitaiyang/rust-rustlings-2024-autumn-huitaiyan/target/debug/deps/iovec-fb6a58d5fe74f14a.d: /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/iovec-0.1.4/src/lib.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/iovec-0.1.4/src/sys/mod.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/iovec-0.1.4/src/sys/unix.rs /home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/iovec-0.1.4/src/unix.rs
+
+/home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/iovec-0.1.4/src/lib.rs:
+/home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/iovec-0.1.4/src/sys/mod.rs:
+/home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/iovec-0.1.4/src/sys/unix.rs:
+/home/huiitaiyang/.cargo/registry/src/mirrors.tuna.tsinghua.edu.cn-2eab394af869c8a2/iovec-0.1.4/src/unix.rs:

@@ -12,11 +12,15 @@
 // Complete the `capitalize_first` function.
 // "hello" -> "Hello"
 pub fn capitalize_first(input: &str) -> String {
-    let mut c = input.chars();
-    match c.next() {
-        None => String::new(),
-        Some(first) => format!("{}{}", first.to_uppercase().next().unwrap(), c.as_str()),
+    if input.is_empty() {
+        return String::new();
     }
+    let first_char = input.chars().next().unwrap();
+    if!first_char.is_alphabetic() {
+        return input.to_string();
+    }
+    let capitalized_first_char = first_char.to_uppercase().next().unwrap();
+    format!("{}{}", capitalized_first_char, &input[1..])
 }
 
 // Step 2.
